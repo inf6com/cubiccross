@@ -1,0 +1,458 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2F5C761F2DD98ED4009006D6 /* Queen-Hot-Space-album-cover-820.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F5C76132DD98ED4009006D6 /* Queen-Hot-Space-album-cover-820.jpg */; };
+		2F5C76212DD98ED4009006D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F5C760F2DD98ED4009006D6 /* LaunchScreen.storyboard */; };
+		2F5C76222DD98ED4009006D6 /* Packages in Resources */ = {isa = PBXBuildFile; fileRef = 2F5C76122DD98ED4009006D6 /* Packages */; };
+		2F5C76242DD98ED4009006D6 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2F5C76072DD98ED4009006D6 /* .gitignore */; };
+		2F5C76252DD98ED4009006D6 /* Compliance_CubicCross.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2F5C76092DD98ED4009006D6 /* Compliance_CubicCross.pdf */; };
+		2F82FBF82E0A2C7200E5760F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5C760A2DD98ED4009006D6 /* ContentView.swift */; };
+		2F82FBF92E0A2C7200E5760F /* FaceLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5C760D2DD98ED4009006D6 /* FaceLet.swift */; };
+		2F82FBFA2E0A2C7200E5760F /* MainContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5C76102DD98ED4009006D6 /* MainContainerView.swift */; };
+		2F82FBFB2E0A2C7200E5760F /* ABC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FBC2E302DEF09AD00B3E700 /* ABC.swift */; };
+		2F82FBFC2E0A2C7200E5760F /* MusicManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5C76112DD98ED4009006D6 /* MusicManager.swift */; };
+		2F82FBFD2E0A2C7200E5760F /* RedSpecial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5C76142DD98ED4009006D6 /* RedSpecial.swift */; };
+		2F82FBFE2E0A2C7200E5760F /* RedSpecialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F277CB32DF627FF000DFCE1 /* RedSpecialView.swift */; };
+		2F82FBFF2E0A2C7200E5760F /* RedSpecialUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F277CB12DF6236E000DFCE1 /* RedSpecialUI.swift */; };
+		2F82FC0E2E0A2F9100E5760F /* CubicCrossApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5C760C2DD98ED4009006D6 /* CubicCrossApp.swift */; };
+		2F82FC122E0A52E900E5760F /* NsynthMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F82FC112E0A52CB00E5760F /* NsynthMap.swift */; };
+		2FB5FB1D2E21EE48007D35AC /* PrismDecoder.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 2FB5FB1C2E21EE48007D35AC /* PrismDecoder.mlpackage */; };
+		2FC712322E34AF2800F927F0 /* appstore.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FC7122F2E34AF2800F927F0 /* appstore.png */; };
+		2FC712332E34AF2800F927F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FC712302E34AF2800F927F0 /* Assets.xcassets */; };
+		2FC712342E34AF2800F927F0 /* playstore.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FC712312E34AF2800F927F0 /* playstore.png */; };
+		2FDCBA442DD94ACF00C306AF /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = 2FDCBA432DD94ACF00C306AF /* GoogleMobileAds */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2F277CB12DF6236E000DFCE1 /* RedSpecialUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedSpecialUI.swift; sourceTree = "<group>"; };
+		2F277CB32DF627FF000DFCE1 /* RedSpecialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedSpecialView.swift; sourceTree = "<group>"; };
+		2F5C76072DD98ED4009006D6 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		2F5C76092DD98ED4009006D6 /* Compliance_CubicCross.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Compliance_CubicCross.pdf; sourceTree = "<group>"; };
+		2F5C760A2DD98ED4009006D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2F5C760B2DD98ED4009006D6 /* CubicCross-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CubicCross-Bridging-Header.h"; sourceTree = "<group>"; };
+		2F5C760C2DD98ED4009006D6 /* CubicCrossApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CubicCrossApp.swift; sourceTree = "<group>"; };
+		2F5C760D2DD98ED4009006D6 /* FaceLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceLet.swift; sourceTree = "<group>"; };
+		2F5C760E2DD98ED4009006D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F5C760F2DD98ED4009006D6 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2F5C76102DD98ED4009006D6 /* MainContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainContainerView.swift; sourceTree = "<group>"; };
+		2F5C76112DD98ED4009006D6 /* MusicManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicManager.swift; sourceTree = "<group>"; };
+		2F5C76122DD98ED4009006D6 /* Packages */ = {isa = PBXFileReference; lastKnownFileType = text; path = Packages; sourceTree = "<group>"; };
+		2F5C76132DD98ED4009006D6 /* Queen-Hot-Space-album-cover-820.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Queen-Hot-Space-album-cover-820.jpg"; sourceTree = "<group>"; };
+		2F5C76142DD98ED4009006D6 /* RedSpecial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedSpecial.swift; sourceTree = "<group>"; };
+		2F5C762A2DD9B064009006D6 /* CubicCross.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = CubicCross.xcodeproj; sourceTree = SOURCE_ROOT; };
+		2F82FC112E0A52CB00E5760F /* NsynthMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NsynthMap.swift; sourceTree = "<group>"; };
+		2FB5FB1C2E21EE48007D35AC /* PrismDecoder.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = PrismDecoder.mlpackage; sourceTree = "<group>"; };
+		2FBC2E302DEF09AD00B3E700 /* ABC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ABC.swift; sourceTree = "<group>"; };
+		2FC7122F2E34AF2800F927F0 /* appstore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appstore.png; sourceTree = "<group>"; };
+		2FC712302E34AF2800F927F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2FC712312E34AF2800F927F0 /* playstore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playstore.png; sourceTree = "<group>"; };
+		2FDCB9F72DD947B700C306AF /* CubicCross.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CubicCross.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		2F5C769C2DD9B0BA009006D6 /* Preview Content */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2FDCB9F42DD947B700C306AF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2FDCBA442DD94ACF00C306AF /* GoogleMobileAds in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2F82FBED2E0A22D900E5760F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2FAB20FC2DDCA7B1006F5A11 /* Products */ = {
+			isa = PBXGroup;
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2FDCB9EE2DD947B700C306AF = {
+			isa = PBXGroup;
+			children = (
+				2F82FBED2E0A22D900E5760F /* Frameworks */,
+				2F5C76072DD98ED4009006D6 /* .gitignore */,
+				2F5C76092DD98ED4009006D6 /* Compliance_CubicCross.pdf */,
+				2F5C760A2DD98ED4009006D6 /* ContentView.swift */,
+				2F5C760B2DD98ED4009006D6 /* CubicCross-Bridging-Header.h */,
+				2F5C760C2DD98ED4009006D6 /* CubicCrossApp.swift */,
+				2F5C760D2DD98ED4009006D6 /* FaceLet.swift */,
+				2F5C760E2DD98ED4009006D6 /* Info.plist */,
+				2F5C760F2DD98ED4009006D6 /* LaunchScreen.storyboard */,
+				2F5C76102DD98ED4009006D6 /* MainContainerView.swift */,
+				2FBC2E302DEF09AD00B3E700 /* ABC.swift */,
+				2F5C76112DD98ED4009006D6 /* MusicManager.swift */,
+				2F5C76122DD98ED4009006D6 /* Packages */,
+				2F5C76132DD98ED4009006D6 /* Queen-Hot-Space-album-cover-820.jpg */,
+				2F5C76142DD98ED4009006D6 /* RedSpecial.swift */,
+				2F277CB32DF627FF000DFCE1 /* RedSpecialView.swift */,
+				2F277CB12DF6236E000DFCE1 /* RedSpecialUI.swift */,
+				2F82FC112E0A52CB00E5760F /* NsynthMap.swift */,
+				2F5C769C2DD9B0BA009006D6 /* Preview Content */,
+				2FDCB9F72DD947B700C306AF /* CubicCross.app */,
+				2F5C762A2DD9B064009006D6 /* CubicCross.xcodeproj */,
+				2FB5FB1C2E21EE48007D35AC /* PrismDecoder.mlpackage */,
+				2FC7122F2E34AF2800F927F0 /* appstore.png */,
+				2FC712302E34AF2800F927F0 /* Assets.xcassets */,
+				2FC712312E34AF2800F927F0 /* playstore.png */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2FDCB9F62DD947B700C306AF /* CubicCross */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2FDCBA182DD947B800C306AF /* Build configuration list for PBXNativeTarget "CubicCross" */;
+			buildPhases = (
+				2FDCB9F42DD947B700C306AF /* Frameworks */,
+				2FDCB9F52DD947B700C306AF /* Resources */,
+				2F82FBF72E0A2C5B00E5760F /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				2F5C769C2DD9B0BA009006D6 /* Preview Content */,
+			);
+			name = CubicCross;
+			packageProductDependencies = (
+				2FDCBA432DD94ACF00C306AF /* GoogleMobileAds */,
+			);
+			productName = CubicCross;
+			productReference = 2FDCB9F72DD947B700C306AF /* CubicCross.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2FDCB9EF2DD947B700C306AF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					2FDCB9F62DD947B700C306AF = {
+						CreatedOnToolsVersion = 16.3;
+						LastSwiftMigration = 1630;
+					};
+				};
+			};
+			buildConfigurationList = 2FDCB9F22DD947B700C306AF /* Build configuration list for PBXProject "CubicCross" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2FDCB9EE2DD947B700C306AF;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				2FDCBA422DD94ACF00C306AF /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 2FDCB9EE2DD947B700C306AF;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 2FAB20FC2DDCA7B1006F5A11 /* Products */;
+					ProjectRef = 2F5C762A2DD9B064009006D6 /* CubicCross.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				2FDCB9F62DD947B700C306AF /* CubicCross */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2FDCB9F52DD947B700C306AF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2F5C761F2DD98ED4009006D6 /* Queen-Hot-Space-album-cover-820.jpg in Resources */,
+				2F5C76212DD98ED4009006D6 /* LaunchScreen.storyboard in Resources */,
+				2FC712322E34AF2800F927F0 /* appstore.png in Resources */,
+				2FC712332E34AF2800F927F0 /* Assets.xcassets in Resources */,
+				2FC712342E34AF2800F927F0 /* playstore.png in Resources */,
+				2F5C76222DD98ED4009006D6 /* Packages in Resources */,
+				2F5C76242DD98ED4009006D6 /* .gitignore in Resources */,
+				2F5C76252DD98ED4009006D6 /* Compliance_CubicCross.pdf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2F82FBF72E0A2C5B00E5760F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2F82FC0E2E0A2F9100E5760F /* CubicCrossApp.swift in Sources */,
+				2F82FC122E0A52E900E5760F /* NsynthMap.swift in Sources */,
+				2F82FBF82E0A2C7200E5760F /* ContentView.swift in Sources */,
+				2F82FBF92E0A2C7200E5760F /* FaceLet.swift in Sources */,
+				2F82FBFA2E0A2C7200E5760F /* MainContainerView.swift in Sources */,
+				2F82FBFB2E0A2C7200E5760F /* ABC.swift in Sources */,
+				2F82FBFC2E0A2C7200E5760F /* MusicManager.swift in Sources */,
+				2F82FBFD2E0A2C7200E5760F /* RedSpecial.swift in Sources */,
+				2F82FBFE2E0A2C7200E5760F /* RedSpecialView.swift in Sources */,
+				2F82FBFF2E0A2C7200E5760F /* RedSpecialUI.swift in Sources */,
+				2FB5FB1D2E21EE48007D35AC /* PrismDecoder.mlpackage in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		2FDCBA162DD947B800C306AF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = W7RB5ZZNUJ;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2FDCBA172DD947B800C306AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = W7RB5ZZNUJ;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2FDCBA192DD947B800C306AF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = W7RB5ZZNUJ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "$(PROJECT_DIR)/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.CubicCross.CubicCross;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "CubicCross-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2FDCBA1A2DD947B800C306AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = W7RB5ZZNUJ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "$(PROJECT_DIR)/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.CubicCross.CubicCross;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "CubicCross-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2FDCB9F22DD947B700C306AF /* Build configuration list for PBXProject "CubicCross" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2FDCBA162DD947B800C306AF /* Debug */,
+				2FDCBA172DD947B800C306AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2FDCBA182DD947B800C306AF /* Build configuration list for PBXNativeTarget "CubicCross" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2FDCBA192DD947B800C306AF /* Debug */,
+				2FDCBA1A2DD947B800C306AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		2FDCBA422DD94ACF00C306AF /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.4.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		2FDCBA432DD94ACF00C306AF /* GoogleMobileAds */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2FDCBA422DD94ACF00C306AF /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */;
+			productName = GoogleMobileAds;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 2FDCB9EF2DD947B700C306AF /* Project object */;
+}
